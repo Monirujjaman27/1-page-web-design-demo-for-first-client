@@ -1,0 +1,151 @@
+/* sm- device */
+  @media(min-width:300px) and (max-width:575px){
+
+    .deopdown-menu {
+      float: left;
+      left: 0px !important;
+      top: 38px !important;
+    }
+
+  .display-none{
+      display: none;
+  }
+  .dispay-20 {
+    font-size: 14px !important;
+  }
+  .display-55 {
+    font-size: 20px !important;
+  }
+  .haddingitems {
+    font-size: 25px !important;
+  }
+  /* .hadderbutton */
+  .hadderbutton-subtitle {
+    font-size: 12px !important;
+  }
+  .hadderbutton-title {
+    font-size: 18px !important;
+  }
+  .heading span {
+    font-size: 25px;
+  }
+  .subheading span {
+    font-size: 15px;
+  }
+
+  /* .XM-WebTrader-btn */
+  .XM-WebTrader-btn-title a {
+    font-size: 16px !important;
+    font-weight: bold !important;
+  }
+  .XM-WebTrader-btn-subtitle {
+    font-size: 12px !important;
+  }
+  /* analysis-center-title */
+  .analysis-center-title {
+    font-size: 25px !important;
+  }
+
+  .contentand-men::before {
+    height: 30px !important;
+  }
+  .number span {
+    font-size: 36px;
+  }
+  .box-border-inner span {
+    font-size: 20px !important;
+  }
+  .privacy-link li a{
+    color: #c8c3c3b3;
+    font-size: 9px;
+    font-weight: bold;
+  }
+  .artical-image img {
+    height: 45px;
+    width: 45px;
+  }
+  .hadding-title span {
+    font-size: 22px;
+  }
+  .hadding-subTitle p {
+    font-size: 15px;
+  }
+  .XM-Group-Awards-hadding {
+    font-size: 25px !important;
+  }
+  .demo_real_section .layer {
+    background: linear-gradient(to right,#DA1B1B 0%,#53BE42 100% ) !important;
+  }
+
+}
+
+
+
+
+/* md-device */
+  @media(min-width:576px) and (max-width:767px){
+    .contentand-men::before {
+      height: 30px !important;
+    }
+    .number span {
+      font-size: 40px;
+    }
+    .deopdown-menu {
+      float: left;
+      left: 0px !important;
+      top: 38px !important;
+      position: absolute;
+    }
+    .topbar-items ul li {
+      padding: 0px 5px !important;
+    }
+
+    .hadderbutton{
+      padding: 18px !important;
+    }
+    /* .XM-Group-Awards-hadding */
+    .XM-Group-Awards-hadding {
+      font-size: 30px !important;
+    }
+    /* Choose a Big, Fair area */
+    .hadding-title span {
+      font-size: 30px !important;
+    }
+    .demo_real_section .layer {
+      background: linear-gradient(to right,#DA1B1B 0%,#53BE42 100% ) !important;
+    }
+
+}
+
+/* lg-device */
+  @media(min-width:768px) and (max-width:991px){
+    .navbar-brand img {
+      width: 100px;
+    }
+    .heading span {
+      font-size: 35px;
+    }
+    .subheading span {
+      font-size: 25px;
+    }
+    .read-more-area::before {
+      width: 42% !important;
+    }
+    .read-more-area1::before {
+      width: 15% !important;
+    }
+    .artical-image img {
+      height: 50px;
+      width: 50px;
+    }
+    .number span {
+      font-size: 40px;
+    }
+    .demo_real_section .layer {
+      background: linear-gradient(to right,#DA1B1B 0%,#53BE42 100% ) !important;
+    }
+}
+
+/* xl-device */
+/* @media(min-width:992px) and (max-width:1300px){
+} */
